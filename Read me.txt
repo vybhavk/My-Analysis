@@ -1,0 +1,13 @@
+SourceCode:
+
+	main()
+	RMSE()
+	data_preprocessing()
+	data_modeling()
+
+	main function will load the data and processes it, saves the predictions to CSV file.
+Note: 
+	The Data for cleaning & modeling, Holdout data for testing has to be in the same folder
+	where the source code is placed. 
+      	To run the code, use the below in python editor 
+		python /SourceCode.py
